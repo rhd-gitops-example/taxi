@@ -1,4 +1,4 @@
-# The Taxi App Jainam
+# The Taxi App Jainam Shah
 
 ## About
 
