@@ -27,4 +27,4 @@ The CD pipeline deploys the kubernetes manifests of the `taxi` app to the `dev` 
 
 ### testing 1.11.0
 
-### testing 1.12.0-7
+### testing 1.12.0-7 testing
